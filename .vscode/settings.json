@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "msp430.h": "c",
+        "msp430f6638.h": "c",
+        "softspi.h": "c"
+    }
+}

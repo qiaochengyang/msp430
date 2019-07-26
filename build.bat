@@ -1,0 +1,1 @@
+@IarBuild.exe .\iar.ewp Debug -log all
